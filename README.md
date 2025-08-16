@@ -33,8 +33,6 @@ Work-in-progress local AI OS.
 📸
 
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/6db085c8-5570-4e04-a498-6681d9405e9e" />
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/88e4d940-0d51-415a-a6fd-4801df5337c2" /> 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/afc85acd-a19d-4bb9-a393-b0758e831ed0" /> 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5437bc84-60cf-407b-b647-b7b4bfc4a319" /> 
 
 
