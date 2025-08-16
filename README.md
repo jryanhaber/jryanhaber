@@ -73,7 +73,7 @@ We deliver the most exceptional simulated life coaching, counseling, and persona
 - [It just got a lot easier to tend to your projects →](https://www.loom.com/share/fe9606512aed45509f1bda9bf12ba0de?sid=b4b67995-70fd-4bdb-b4c7-3e6dd43128c4)  
 - [Would on-demand coaching move the needle? →](https://go.ixcoach.com/)  
 - [What people are saying about our work →](https://theresanaiforthat.com/ai/ix-coach/)  
-- [Visit us on **Facebook**]([https://facebook.com](https://www.facebook.com/PerpetuityEnfolded)) · [**Twitter**](https://x.com/NextAILabs) · [**LinkedIn**](https://www.linkedin.com/in/jryanhaber)  
+- [Visit us on [**Twitter**](https://x.com/NextAILabs) · [**LinkedIn**](https://www.linkedin.com/in/jryanhaber)  
 - [What’s new →](https://ixcoach.canny.io/changelog)
 
 ---
