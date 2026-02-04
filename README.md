@@ -6,8 +6,7 @@
 
 ---
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/dc8bbdee917a4230b54435663367e034-with-play.gif)](https://www.loom.com/share/dc8bbdee917a4230b54435663367e034)
-
+<div style="position: relative; padding-bottom: 68.09583858764186%; height: 0;"><iframe src="https://www.loom.com/embed/dc8bbdee917a4230b54435663367e034" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## ⚡ Flagship Work
 
