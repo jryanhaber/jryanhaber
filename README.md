@@ -6,8 +6,14 @@
 
 ---
 
-<div style="position: relative; padding-bottom: 68.09583858764186%; height: 0;"><iframe src="https://www.loom.com/embed/dc8bbdee917a4230b54435663367e034" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/dc8bbdee917a4230b54435663367e034">
+      <p>Streamlining Code Workflow with Agent Collaboration 🚀 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/dc8bbdee917a4230b54435663367e034">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc8bbdee917a4230b54435663367e034-7d8b5ecbf8354cc6-full-play.gif#t=0.1">
+    </a>
+  </div>
 ## ⚡ Flagship Work
 
 ### 👑 [IX Coach](https://ixcoach.com)   
