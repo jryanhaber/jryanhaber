@@ -1,90 +1,37 @@
-# 👋 Jonathan Haber | Steward @ Next AI Labs Inc
+# Jonathan Haber
 
-🚀 Founder of [Next AI Labs](https://ixcoach.com) – building towards **sentient AI explicitly devoted to human flourishing.**  
-📈 Architect of IX Coach (5,000+ users, 240 paid) + builder of OSS frameworks in multi-agent orchestration & personal knowledge systems.  
-🔬 8,000+ contributions last year | Two years focused on **AI × consciousness × developmental psychology.**
+I build systems that keep AI agents aligned with what people actually mean — and run them in production.
 
----
-
-
-<div>
-    <a href="https://www.loom.com/share/dc8bbdee917a4230b54435663367e034">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc8bbdee917a4230b54435663367e034-7d8b5ecbf8354cc6-full-play.gif#t=0.1">
-    </a>
-     <a href="https://www.loom.com/share/dc8bbdee917a4230b54435663367e034">
-      <p>My Agentic / Swarm Coding Workflow 🚀 - Watch Video</p>
-    </a>
-  </div>
-
-  
-## ⚡ Flagship Work
-
-### 👑 [IX Coach](https://ixcoach.com)   
-On-demand AI coaching platform serving 5,000+ users with live revenue.  
-→ Applied Integral Theory × AI → designed to dissolve loneliness, enhance presence, and train human connection.  
-
-**Under the hood**:  
-- Automated profitability reports (8 hrs of accounting → 1 click).  
-- Bug-detect-and-text notification systems.  
-- Prompt scaffolding that lets me manage **12+ AI agents without chaos**.  
-
-📸
-<img width="1509" height="1230" alt="image" src="https://github.com/user-attachments/assets/773e5620-8129-4dee-9f03-c1196e86bf57" />
-
-📸
-<img width="1591" height="1293" alt="image" src="https://github.com/user-attachments/assets/a6676472-c1fd-4ae0-af5d-14a0059a2e2d" />
+Founder, [Next AI Labs](https://github.com/Next-AI-Labs-Inc) · Palo Alto, CA · [Portfolio](https://jonathan-haber-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jryanhaber) · founder@ixcoach.com
 
 ---
 
-### ⚔️ [Coherence UI](https://github.com/Next-AI-Labs-Inc/Coherence)  
-Work-in-progress local AI OS.  
-→ Transforms chaos → clarity: semantic units, context injection into GPT/Claude, and direct IX Coach integration.  
+## Alignment Harness for Claude Code — [alignment-harness.vercel.app](https://alignment-harness.vercel.app/)
 
- 
-📸
+Misalignment between a person and an agent rarely fails where it starts. It compounds: a misread message becomes a wrong plan, then code and passing tests aimed at the wrong target, then a session summary the next session trusts. The harness intervenes at each recurring moment ("fulcrum") in a Claude Code session where that drift gets in — so a misreading costs one sentence to fix instead of a day.
 
-<img width="886" alt="image" src="https://github.com/user-attachments/assets/6db085c8-5570-4e04-a498-6681d9405e9e" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5437bc84-60cf-407b-b647-b7b4bfc4a319" /> 
+- In daily production use since March 2026: **39 hooks, 441 skills, a written operating protocol**, and searchable memory of past sessions and decisions
+- **274,743 telemetry events** (since June 10) and **1,872 Claude Code sessions** (since July 16) run under it, as of Sept 28, 2026 — each figure reproducible from a documented command
+- In my own use, roughly **5–10× more work completed** before a session drifts (author's estimate, not a controlled study)
+- Being extracted into an installable, MIT-licensed plugin (193 skills packaged so far). Repo goes public after fresh-machine install testing.
 
+## IX Coach — where it was proven
 
----
+[IX Coach](https://ixcoach.com) is an AI coaching platform, live since 2023, with paying subscribers. It's the production system the harness grew out of.
 
-### 🛡 [Agentic-Sync](https://github.com/Next-AI-Labs-Inc/Agentic-Sync)   
-Open-source multi-agent orchestration framework.  
-→ Already the most robust OSS orchestration framework in its class, now being refreshed with MCP + Auth.  
-→ Foundation that proves durability and robustness in complex AI agent environments.  
+- **14,104** real coaching conversations · **5,402** registered accounts (since May 2023)
+- **24,060** commits since Jan 2023 · **~1.27M** lines of application code · **~243k** lines of tests
+- Coaching quality measured from member behavior rather than model self-assessment; eleven monitors on key business metrics; staged releases
 
----
+→ **[What has been built, with evidence](https://jonathan-haber-portfolio.vercel.app/the-work)**: every part, what it does, and how each number was measured.
 
-## 🛠 Current Focus (2025 Roadmap)
+## Open source
 
-- **Q3 2025:** Memory systems for IX Coach (lasting recall, UI for memory exploration).  
-- **Q4 2025:** Agentic-Sync v0.2 with multi-model integrations.  
-- **Q1 2026:** Open-source community growth (20+ contributors).  
+- [agent-swarm](https://github.com/Next-AI-Labs-Inc/agent-swarm): multi-agent Claude Code orchestration
+- [ix-systems-docs](https://github.com/Next-AI-Labs-Inc/ix-systems-docs): representative slice of IX Coach backend architecture docs
+- [Agentic-Sync](https://github.com/Next-AI-Labs-Inc/Agentic-Sync): agentic task management (Next.js / Tauri)
+- [Video: my agentic / swarm coding workflow](https://www.loom.com/share/dc8bbdee917a4230b54435663367e034)
 
----
+## Why
 
-## 📈 Impact Highlights
-
-- Shipped AI coaching infra powering **5,000+ users** with live revenue.  
-- Architected deterministic debugging + memory pipelines for next-gen coaching AI.  
-- 8,000+ contributions across 78 repos (curated into 3 flagship ecosystems).  
-- Built leverage-focused playbook: rapid A/B ads, deterministic data funnels, churn-kill retention systems.  
-
----
-
-We deliver the most exceptional simulated life coaching, counseling, and personal development experiences in the world through devotion to the belief that **having all the support you need should be a right, not a privilege.**
-
----
-
-## 🌍 Connect
-
-- [It just got a lot easier to tend to your projects →](https://www.loom.com/share/fe9606512aed45509f1bda9bf12ba0de?sid=b4b67995-70fd-4bdb-b4c7-3e6dd43128c4)  
-- [Would on-demand coaching move the needle? →](https://go.ixcoach.com/)  
-- [What people are saying about our work →](https://theresanaiforthat.com/ai/ix-coach/)  
-- [Visit us on [**Twitter**](https://x.com/NextAILabs) · [**LinkedIn**](https://www.linkedin.com/in/jryanhaber)  
-- [What’s new →](https://ixcoach.canny.io/changelog)
-
----
-
-*"AI that doesn’t just give you answers—it shapes how you meet life itself."*
+For twenty years my work has been about coherence: closing the gap between what people intend and what they actually do. Background in integral theory, applied coaching methodology and Zen practice. I now point that at the gap between what people mean and what AI does.
